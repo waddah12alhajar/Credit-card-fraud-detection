@@ -3,7 +3,7 @@ Introduction: Credit card fraud is a serious concern for banks and customers wor
 
 Dataset: The dataset used for this project is the Credit Card Fraud Detection dataset from Kaggle (https://www.kaggle.com/mlg-ulb/creditcardfraud). The dataset contains transactions made by credit cards in September 2013 by European cardholders. The dataset has 284,807 transactions, out of which 492 are fraudulent. The dataset contains 30 features, most of which are anonymized due to privacy concerns.
 
-As the data is imbalanced, we will apply some techniques to solve the imbalance so that the models will perform better.
+As the data is imbalanced, we will apply ٍSMOT technique to solve the imbalance so that the models will perform better.
 
 Methods: The following machine learning algorithms will be experimented to build the fraud detection model:
 1. Logistic Regression
