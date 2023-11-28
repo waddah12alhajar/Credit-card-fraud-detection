@@ -19,4 +19,4 @@ Evaluation Framework: The following evaluation metrics will be used to assess th
 1. Precision (important to minimize false positives)
 2. Recall
 3. F1 score
-4. AUC-RO
+4. AUC-ROC
